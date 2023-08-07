@@ -1,0 +1,6 @@
+ID Venda,Produto,Qtd Vendida,Vendedor,Cliente,Data,Obs,Valor Total
+1002,Pneu Off-Road Aro 15,4,Marcos Sérgio,Abelarda Severina de Assis,25/01/2023,Cartão,1603.96 
+1002,Pneu On-Road Aro 15,4,Marcos Sérgio,Abelarda Severina de Assis,25/01/2023,Cartão,1331.96 
+1002,Pneu On-Road Aro 16,4,Marcos Sérgio,Abelarda Severina de Assis,25/01/2023,Cartão,1559.96 
+1002,Pneu Off-Road Aro 14,4,Marcos Sérgio,Abelarda Severina de Assis,25/01/2023,Cartão,1411.96 
+1003,Pneu On-Road Aro 16,1,Augusto Silva,Gustavo Campos de Almeida,30/01/2023,Dinheiro,389.99 
